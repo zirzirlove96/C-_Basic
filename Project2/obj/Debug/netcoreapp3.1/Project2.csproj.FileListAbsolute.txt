@@ -1,0 +1,13 @@
+D:\2021년도\C#\C-_Basic-main\Project2\bin\Debug\netcoreapp3.1\Project2.exe
+D:\2021년도\C#\C-_Basic-main\Project2\bin\Debug\netcoreapp3.1\Project2.deps.json
+D:\2021년도\C#\C-_Basic-main\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.json
+D:\2021년도\C#\C-_Basic-main\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.dev.json
+D:\2021년도\C#\C-_Basic-main\Project2\bin\Debug\netcoreapp3.1\Project2.dll
+D:\2021년도\C#\C-_Basic-main\Project2\bin\Debug\netcoreapp3.1\Project2.pdb
+D:\2021년도\C#\C-_Basic-main\Project2\obj\Debug\netcoreapp3.1\Project2.csprojAssemblyReference.cache
+D:\2021년도\C#\C-_Basic-main\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+D:\2021년도\C#\C-_Basic-main\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+D:\2021년도\C#\C-_Basic-main\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache
+D:\2021년도\C#\C-_Basic-main\Project2\obj\Debug\netcoreapp3.1\Project2.dll
+D:\2021년도\C#\C-_Basic-main\Project2\obj\Debug\netcoreapp3.1\Project2.pdb
+D:\2021년도\C#\C-_Basic-main\Project2\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache
